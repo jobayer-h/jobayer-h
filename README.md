@@ -38,6 +38,15 @@
 <br />
 <br />
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.jobayer-h.vercel.app/api?username=jobayer-h&show_icons=true&hide_border=true" />
+
+</details>
+
+
+
 [website]: https://jobayer-h.xyz
 [twitter]: https://twitter.com/jobayer__h
 [instagram]: https://www.instagram.com/jhr.143
