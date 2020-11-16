@@ -41,8 +41,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.jobayer-h.vercel.app/api?username=jobayer-h&show_icons=true&hide_border=true" />
-
+  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jobayer-h)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 
