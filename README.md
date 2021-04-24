@@ -5,19 +5,16 @@
 
 ## I'm a Biker, Rock music listener, Developer !!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🌱 I’m currently learning Node Js
 
 
 
 ### Connect with me:
 
-[<img align="left" alt="jobayer-h.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="jobayer.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Jobayer | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Jobayer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Jobayer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -42,11 +39,14 @@
 
   <summary>:zap: GitHub Stats</summary>
   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jobayer-h&show_icons=true&theme=onedark)](https://github.com/jobayer-h/jobayer-h)
+[![Jobayer's github stats](https://github-readme-stats.vercel.app/api?username=jobayer-h&show_icons=true&theme=onedark&count_private=true)](https://github.com/jobayer-h/jobayer-h)
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=jobayer-h&card_width=550)](https://github.com/jobayer-h/jobayer-h)
 
-[website]: https://jobayer-h.xyz
+[![Jobayer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jobayer-h)](https://github.com/jobayer-h/jobayer-h)
+
+
+[website]: https://jobayer.netlify.app
 [twitter]: https://twitter.com/jobayer__h
 [instagram]: https://www.instagram.com/jhr.143
 [linkedin]: https://linkedin.com/in/jobayer-h
