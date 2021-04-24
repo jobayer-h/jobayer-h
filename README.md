@@ -42,9 +42,9 @@
 
   <summary>:zap: GitHub Stats</summary>
   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jobayer-h&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jobayer-h&show_icons=true&theme=onedark)](https://github.com/jobayer-h/jobayer-h)
 
-
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=jobayer-h&card_width=550)](https://github.com/jobayer-h/jobayer-h)
 
 [website]: https://jobayer-h.xyz
 [twitter]: https://twitter.com/jobayer__h
