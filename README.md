@@ -43,7 +43,6 @@
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=jobayer-h&card_width=550)](https://github.com/jobayer-h/jobayer-h)
 
-[![Jobayer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jobayer_h)](https://github.com/jobayer-h/jobayer-h)
 
 
 [website]: https://jobayer.netlify.app
